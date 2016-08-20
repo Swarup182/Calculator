@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Calculator</string>
+    <string name="action_settings">Settings</string>
+    <string name="Find">Find</string>
+    <string-array name="calculation">
+        <item>Area</item>
+        <item>Volume</item>
+        <item>Statistics</item>
+        <item>Account</item>
+        <item>Physics</item>
+        <item>Chemistry</item>
+
+    </string-array>
+
+</resources>
